@@ -1,0 +1,10 @@
+.\list.o: list.c
+.\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\list.o: FreeRTOS.h
+.\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\list.o: projdefs.h
+.\list.o: FreeRTOSConfig.h
+.\list.o: portable.h
+.\list.o: portmacro.h
+.\list.o: mpu_wrappers.h
+.\list.o: list.h
